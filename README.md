@@ -1,3 +1,5 @@
+[![Python](https://github.com/moseck-io/Azure_ML_Project2/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/moseck-io/Azure_ML_Project2/actions/workflows/pythonapp.yml)
+
 # Overview
 
 Complete this with an overview of your project>
